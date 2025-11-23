@@ -1,5 +1,7 @@
 # Table 
 
+Authors: Suhani Rai, Samyuktha Bodduluri
+
 ## Overview
 
 This Java program implements a custom hash table that organizes words from an input file into buckets based on a unique hash function. It demonstrates how hashing, 
